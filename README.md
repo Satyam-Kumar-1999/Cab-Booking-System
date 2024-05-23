@@ -33,7 +33,7 @@ git clone https://github.com/Satyam-Kumar-1999/Cab-Booking-System.git
 
 ## Website Trailer
 
-https://github.com/Satyam-Kumar-1999/Cab-Booking-System/Working/working.mp4
+<video src="Working/working.mp4/>
 
 
 ## Website Highlights
