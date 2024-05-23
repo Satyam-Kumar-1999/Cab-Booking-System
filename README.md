@@ -31,8 +31,7 @@ git clone https://github.com/Satyam-Kumar-1999/Cab-Booking-System.git
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
 
-## Live Working Video
-![Working Video](https://drive.google.com/file/d/1fmigQ5hfpKQ6uZBxcpGtc7HLRprbak6O/view?usp=sharing)
+
 
 
 ## Website Highlights
